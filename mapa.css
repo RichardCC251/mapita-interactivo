@@ -1,0 +1,21 @@
+body {
+   background-color: #94c0f5;
+   display: flex;
+  
+}
+.container{
+    width:70%;
+}
+.container path{
+
+    fill: rgb(238, 237, 236) ;
+    stroke: #000;
+    stroke-width: 2px;
+    
+}
+   .container :hover{
+    fill: rgb(231, 27, 13);
+  
+   }
+
+    
